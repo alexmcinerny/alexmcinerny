@@ -34,7 +34,7 @@ I'm pretty sure I have more than that (see my CV), and I'm always looking to exp
 
 I've got two CVs:
 - A [short form](https://github.com/user-attachments/files/18319092/Short_CV__Alex_McInerny__06012025.pdf).
-- A [detailed version](https://github.com/user-attachments/files/18319099/Long_CV__Alex_McInerny__06012025.pdf) (maybe overkill, but why not?)
+- A [detailed version](https://github.com/user-attachments/files/18330746/Long_CV__Alex_McInerny__07012025.pdf) (maybe overkill, but why not?).
 
 Both are updated as of 06/01/2025.
 
