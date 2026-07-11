@@ -1,4 +1,6 @@
-<h1>👋 Hi, I'm Alex McInerny! </h1>
+<h1>I am Alex McInerny! </h1>
+
+<!--
 
 I'm a 3rd-year Oxford physics student, exploring areas of physics, engineering, and beyond to figure out what I’d like to pursue after graduation. 
 
@@ -46,3 +48,5 @@ Both are updated as of 06/01/2025.
 <h2></h2>
 
 I hope you enjoy exploring my work (and my **creative** use of emojis in headings)!! I’ll try to keep this up to date, but uni life is busy, so no promises. 
+
+-->
